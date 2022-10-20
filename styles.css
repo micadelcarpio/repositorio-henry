@@ -1,0 +1,55 @@
+body{
+    /* para que la imagen se vea entera*/
+    background: url('https://fondosmil.com/fondo/35765.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.divclass{
+    text-align:center;
+    
+}
+
+
+h1,h3,h4{
+    color:white;font-size: 18px;
+}
+
+.img1,.img2{
+    width: 200px; /*Medidas de las imagenes*/
+    height:200px; /*Medidas de las imagenes*/
+    position:relative;
+    left: 95px;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.img3, .img4{
+    width: 200px; /*Medidas de las imagenes*/
+    height:200px; /*Medidas de las imagenes*/
+    position:relative;
+    left: 95px;
+    margin-right: 50px;
+}
+
+
+.thirdDiv{
+    background: peru;
+    height: 500px;
+    width: 600px;
+    padding: 50px;
+    border: 10px solid rgb(126, 201, 126);
+   /* margin-left:auto;
+    margin-right: auto;*/
+    position: absolute;
+    right:500px;
+    left: 300px;
+
+    
+}
+#spanId{
+    color: red;
+    font-size: 20px;
+    margin: 50px;
+}
